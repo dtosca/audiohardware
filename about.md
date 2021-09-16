@@ -14,10 +14,4 @@ And my main [portfolio website][dianatosca.com].
 
 Painstakingly created using [Jekyll](https://jekyllrb.com/)
 
-Source code on GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Source code on [GitHub](https://github.com/dtosca/audiohardware).
