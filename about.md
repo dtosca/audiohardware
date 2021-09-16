@@ -8,10 +8,13 @@ Hi! I'm Diana (she/they).
 
 Welcome to my blog for DM-GY 9103 Hacking Audio Hardware.
 
-Here's all my [blogs](dtosca.github.io).
+Here's all my [class blogs](dtosca.github.io).
 
 And my main [portfolio website](dianatosca.com).
 
-Painstakingly created using [Jekyll](https://jekyllrb.com/)
+
+. . .
+
+This blog was created using [Jekyll](https://jekyllrb.com/)
 
 Source code on [GitHub](https://github.com/dtosca/audiohardware).
