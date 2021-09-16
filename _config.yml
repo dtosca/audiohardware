@@ -32,12 +32,9 @@ twitter_username: toscadiana
 github_username:  dtosca
 
 # Build settings
-remote_theme: pages-themes/architect@v0.2.0
+theme: minima
 plugins:
-  - jekyll-remote-theme
-# theme: minima
-# plugins:
-#   - jekyll-feed
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
