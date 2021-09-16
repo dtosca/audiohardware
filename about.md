@@ -8,9 +8,9 @@ Hi! I'm Diana (she/they).
 
 Welcome to my blog for DM-GY 9103 Hacking Audio Hardware.
 
-Here's all my [class blogs](dtosca.github.io).
+Here's all my [class blogs](https://dtosca.github.io/).
 
-And my main [portfolio website](dianatosca.com).
+And my main [portfolio website](https://dianatosca.com/).
 
 
 . . .
