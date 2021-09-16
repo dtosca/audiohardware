@@ -32,7 +32,7 @@ twitter_username: toscadiana
 github_username:  dtosca
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
