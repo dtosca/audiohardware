@@ -13,7 +13,8 @@ Here's all my [class blogs](https://dtosca.github.io/).
 And my main [portfolio website](https://dianatosca.com/).
 
 
-. . .
+  * * *
+  
 
 This blog was created using [Jekyll](https://jekyllrb.com/)
 
