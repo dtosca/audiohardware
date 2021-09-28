@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Diana (she/they).
+Hi! I'm Diana ([pronouns they/them](https://lgbtlifecenter.org/pronouns/)).
 
 Welcome to my blog for DM-GY 9103 Hacking Audio Hardware.
 
