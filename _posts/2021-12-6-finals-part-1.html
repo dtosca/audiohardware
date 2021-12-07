@@ -1,0 +1,67 @@
+---
+layout: post
+title: Finals Part One: DIY Otamatone
+date: 2021-12-6
+author: Diana Tosca
+comments: true
+---
+
+<p>My beep-boop box works!</p>
+
+<img src="https://dtosca.github.io/audiohardware/assets/midterm_part3/box_close.jpg" width="700" heigh="525">
+
+<img src="https://dtosca.github.io/audiohardware/assets/midterm_part3/box_open.jpg" width="700" heigh="525">
+
+<h2>Changes from initial design</h2>
+
+<p>Some changes I made to my initial box design:</p>
+
+<ul>
+  <li>I changed the force-sensing resistor (FSR) from a wearable circuit to a more standard DIY resistor. </li>
+  <li>I laser cut the box instead of buying one.</li>
+  <li>I used a CD40106 instead of a 74C14 to work with a 9V battery.</li>
+</ul>
+
+<h2>Troubleshooting</h2>
+
+<p>After some troubleshooting, it seems I didn't solder my IC to power. So, I did that - and it worked! For a little while... but when I went to test my FSR, I saw my circuit wasn't working again.</p>
+
+<p>I checked everything with a multi-meter, and I noticed my chip was getting very hot. I decided to swap out the chip, and it made sound again!</p>
+
+<h2>The Box</h2>
+
+<p>When I used a laser cutter for the first time two weeks ago to make a box for Ideation and Prototyping, I felt inspired to make my own box for this assignment.</p>
+
+<p>I gathered some cardboard and measured out how big the box should be, roughly 5 inches x 4 inches by 2.5 inches.</p>
+
+<p>I put the dimensions into this site called <a href="https://www.makercase.com/#/basicbox">MakerCase</a>, put the files they generated into Adobe Illustrator, and laser cut the box.</p>
+
+<img src="https://dtosca.github.io/audiohardware/assets/midterm_part3/makercase.png" width="700" heigh="525">
+
+<p>To make the holes in the box, I marked roughly where the holes should be and used a drill from the MakerSpace to drill them in. </p>
+
+<p>I had some issues with the box - it was slightly too big to fit all the wires snugly. I had to put some extra cardboard pieces on the bottom to make the protoboard fit. The holes also weren't aligned with the switch, so the switch is slightly slanted. Overall, it got the job done.</p>
+
+<img src="https://dtosca.github.io/audiohardware/assets/midterm_part3/makingbox.jpg" width="700" heigh="525">
+
+<h2>DIY Force Sensing Resistor</h2>
+
+<p>The most difficult part was making the FSR. At first, I tried to follow the guides for a wearable force sensor in Handmade Electronic Music (page 160). Unfortunately, the instructions weren't very clear to me! I decided to instead follow <a href="http://iainmccurdy.org/diy/forcesensorlowprofile/forcesensorlowprofile.html">this guide</a> on making an FSR.</p>
+
+<img src="https://dtosca.github.io/audiohardware/assets/midterm_part3/fsr2.jpg" width="700" heigh="525">
+
+<p>It took a few tries, but I got it working. I originally made it to be the size of a finger but decided to make it larger because it had a better range of pitch. My DIY FSR doesn't work exactly like a standard FSR, it seems to have some resistance even when you're not touching it. But I think this makes more a cooler sound! </p>
+
+<img src="https://dtosca.github.io/audiohardware/assets/midterm_part3/fsr.jpg" width="700" heigh="525">
+
+<p>It was a bit difficult to get the FSR onto the box, I had to solder more wire to the original wire to give enough space for the FSR. </p>
+
+<img src="https://dtosca.github.io/audiohardware/assets/midterm_part3/box1.jpg" width="700" heigh="525">
+
+<img src="https://dtosca.github.io/audiohardware/assets/midterm_part3/box2.jpg" width="700" heigh="525">
+
+<img src="https://dtosca.github.io/audiohardware/assets/midterm_part3/box3.jpg" width="700" heigh="525">
+
+<h2>Making the beep boops</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aaYDNKpwW6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
